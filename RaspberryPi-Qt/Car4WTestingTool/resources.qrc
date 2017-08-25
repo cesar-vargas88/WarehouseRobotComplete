@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/Car4W.jpg</file>
+        <file>img/Delete.png</file>
+        <file>img/Key.png</file>
+        <file>img/logo.png</file>
+        <file>img/Save.png</file>
+    </qresource>
+</RCC>
